@@ -1,0 +1,7 @@
+Learning Material
+
+http://saltnlight5.blogspot.com/2013/08/how-to-configure-slf4j-with-different.html
+
+Understanding of Log4j with Slf4j
+
+http://stackoverflow.com/questions/4311026/how-to-get-slf4j-hello-world-working-with-log4j
